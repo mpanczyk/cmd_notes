@@ -4,7 +4,7 @@
 http://terminus-font.sourceforge.net/
 
 ## Triskweline
-http://terminus-font.sourceforge.net/
+http://www.netalive.org/tinkering/triskweline/
 
 ## Proggy
 http://upperbounds.net/
