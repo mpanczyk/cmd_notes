@@ -14,3 +14,12 @@ especially automating things that most people think are not automatable.
 There is also some hints about X11 environment making more ergonomic:
 
   * [console fonts](./fonts.md)
+  * controlling screen:
+      - turn off/on:
+      ```
+      xset dpms force off/on
+      ```
+      - query the state of the screen:
+      ```
+      xset -q
+      ```
