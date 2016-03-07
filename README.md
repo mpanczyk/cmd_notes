@@ -11,7 +11,7 @@ especially automating things that most people think are not automatable.
     ```
 
 ## X11 stuff
-There is also some hints about X11 environment making more ergonomic:
+There are also some hints about making X11 environment more ergonomic:
 
   * [console fonts](./fonts.md)
   * controlling screen:
